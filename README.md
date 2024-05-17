@@ -33,12 +33,17 @@ A basic Calculator application for performing arithmetic operations.
 Features:
 
 1)Supports addition, subtraction, multiplication, and division
+
 2)Clear and easy-to-use interface
+
 3)Responsive design for all devices
 
 Technologies Used
 
 HTML: For structuring the content and layout of the applications.
+
 CSS: For styling the applications and making them visually appealing.
+
 JavaScript: For adding interactivity and functionality to the applications.
+
 Java: For additional backend functionality in the Android environment.
